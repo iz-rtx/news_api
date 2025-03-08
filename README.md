@@ -6,16 +6,16 @@ A news app based on News api calling
 
 ## Build Instructions  
 Clone the Repository
-  git clone https://github.com/iz-rtx/news_api
+  - git clone https://github.com/iz-rtx/news_api
 
  Step 1 : First Run
-  flutter pub run build_runner build --delete-conflicting-outputs
+  - flutter pub run build_runner build --delete-conflicting-outputs
 
 Step 2: Install Dependencies
-  flutter pub get
+  - flutter pub get
 
 Step 3: To run the app on a connected device or emulator: 
-  flutter run
+  - flutter run
 
 ## if faced an error run "flutter clean" in terminal and again try from Step 1
 ##
