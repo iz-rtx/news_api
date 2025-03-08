@@ -1,9 +1,25 @@
 # news_api
 
-A news app based on NEws api calling
+A news app based on News api calling
 
 ## Getting Started
 
+## Build Instructions  
+Clone the Repository
+  git clone https://github.com/iz-rtx/news_api
+
+ Step 1 : First Run
+  flutter pub run build_runner build --delete-conflicting-outputs
+
+Step 2: Install Dependencies
+  flutter pub get
+
+Step 3: To run the app on a connected device or emulator: 
+  flutter run
+
+## if faced an error run "flutter clean" in terminal and again try from Step 1
+##
+##
 This project is a starting point for a Flutter application.
 
 A few resources to get you started if this is your first Flutter project:
